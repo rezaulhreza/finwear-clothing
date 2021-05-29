@@ -49,7 +49,7 @@
 
 				
 					Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Website Developed By <a href="https://www.linkedin.com/in/rezaulhreza" target="_blank">Rezaul H Reza</a> | 
-					Template by <a href="#" target="_blank">ColorLib</a>
+					
 			
 				</p>
 			</div>
